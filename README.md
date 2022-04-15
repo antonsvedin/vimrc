@@ -1,0 +1,2 @@
+# vimrc
+Backup of .vimrc
