@@ -28,7 +28,9 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
+
 let g:user_emmet_leader_key=',' 
+nmap :nt :NERDTreeToggle<cr>
 
 colorscheme onedark
 set background=dark
