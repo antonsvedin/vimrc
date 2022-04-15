@@ -1,13 +1,6 @@
 # vimrc
-Backup of .vimrc
+## Backup of .vimrc
 
-
-
-
-
-Dependencies:
-
+### Dependencies:
 node
-
 npm
-
